@@ -1,0 +1,17 @@
+.container{
+    margin: 180px 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: center space-around;
+    border: 5px solid rgba(57, 17, 80, 0.212);
+    
+    color: rgb(86, 62, 116);
+    text-decoration: solid;
+    background: rgb(221, 211, 221);
+}
+.img{
+    margin: auto 50px;
+border: dotted;
+border-radius: 100px;
+    width: 200px;
+}
